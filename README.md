@@ -1,4 +1,4 @@
-# Alignment_of_scanning_lidars_in_offshroe_wind_farms
+# Alignment_of_scanning_lidars_in_offshore_wind_farms
 Methods to find the alignment of scanning lidars
 
 https://wes.copernicus.org/preprints/wes-2021-62/
